@@ -2,6 +2,9 @@
   "textFontFamily": "Dank Mono,Lab Mono,Brass Mono,Brass Mono Code,Zx Proto",
   "interfaceFontFamily": "Dank Mono,Lab Mono",
   "monospaceFontFamily": "Lab Mono,Cascadia Code,0xProto,0xProto Nerd Font,Zx Proto,Calling Code,Dank Mono",
-  "baseFontSize": 19,
-  "cssTheme": "Minimal"
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "vibe"
+  ]
 }
