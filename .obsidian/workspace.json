@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source.md",
+                "file": "Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Source"
+              "title": "Outline of Obsidian"
             }
           },
           {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f1bca9f5bbe6cbf",
+  "active": "cf1b794932d54da1",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2026-04-12.md",
