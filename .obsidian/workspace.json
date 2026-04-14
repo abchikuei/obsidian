@@ -74,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 306.5026054382324,
     "collapsed": true
   },
   "right": {
@@ -197,6 +198,7 @@
   },
   "active": "71a1eaabc2688c42",
   "lastOpenFiles": [
+    "Pics",
     "Obsidian.md",
     "Untitled.canvas",
     "2026-04-12.md",
