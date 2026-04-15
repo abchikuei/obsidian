@@ -1,8 +1,8 @@
 {
   "textFontFamily": "Dank Mono,Lab Mono,Brass Mono,Brass Mono Code,Zx Proto",
   "interfaceFontFamily": "Dank Mono,Lab Mono",
-  "monospaceFontFamily": "Dank Mono,Lab Mono,Cascadia Code,0xProto,0xProto Nerd Font,Zx Proto,Calling Code",
-  "baseFontSize": 16,
+  "monospaceFontFamily": "Lab Mono,Dank Mono,Cascadia Code,0xProto,0xProto Nerd Font,Zx Proto,Calling Code",
+  "baseFontSize": 18,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "vibe"

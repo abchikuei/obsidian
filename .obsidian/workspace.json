@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9806b2da741f98b1",
+        "id": "4af1f704481dd523",
         "type": "tabs",
         "children": [
           {
-            "id": "71a1eaabc2688c42",
+            "id": "4c1dab7cefda7af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,13 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71a1eaabc2688c42",
+  "active": "4c1dab7cefda7af3",
   "lastOpenFiles": [
-    "Pics",
+    "notes/Nvidia Story.md",
     "Obsidian.md",
-    "Untitled.canvas",
-    "2026-04-12.md",
+    "2026-04-13 Binary Search.md",
     "Untitled.base",
+    "2026-04-14.md",
+    "Untitled.canvas",
+    "notes",
+    "se-preview.gif.md",
+    "media",
+    "2026-04-12.md",
     "Raw-Notes.md",
     "rwa.md",
     "Temproary.md"
