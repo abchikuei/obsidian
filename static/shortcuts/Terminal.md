@@ -111,4 +111,5 @@
 | `p`      | Paste                                                              |
 | `d`      | Delete, moves the selected item to the Trash                       |
 | `Tab`    | Show the size, timestamps of folder or file                        |
+| `.`      | Show hidden files and folders                                      |
 

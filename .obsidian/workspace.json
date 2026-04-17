@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d92759a4048123b5",
+        "id": "8e2521d9a63348db",
         "type": "tabs",
         "children": [
           {
-            "id": "6b157eb24b2f942f",
+            "id": "60e7185c0b1c99eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "static/configs/VSCode.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "VSCode"
+              "title": "New tab"
             }
           }
         ]
@@ -184,7 +180,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obicard:Sample": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,18 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b157eb24b2f942f",
+  "active": "60e7185c0b1c99eb",
   "lastOpenFiles": [
-    "static/configs/Raycast.md",
+    "static/shortcuts/Terminal.md",
     "Main.md",
+    "static/configs/VSCode.md",
+    "static/configs/Raycast.md",
     "static",
     "notes/Obsidian Plugin Releasing.md",
-    "static/configs/VSCode.md",
     "static/configs/Prettier.md",
     "static/configs/Ghostty.md",
     "configs/Neovim.md",
     "configs/Mac.md",
-    "static/shortcuts/Terminal.md",
     "configs/Obsidian.md",
     "configs/Chrome.md",
     "static/tools/NPM Tools.md",
