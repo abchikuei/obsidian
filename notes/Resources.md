@@ -1,2 +1,0 @@
-- [Shields.io Badges](https://github.com/inttter/md-badges)
-- 
