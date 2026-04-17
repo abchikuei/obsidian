@@ -1,10 +1,11 @@
 {
   "textFontFamily": "Dank Mono,Source Code Pro",
   "interfaceFontFamily": "Dank Mono",
-  "monospaceFontFamily": "Dank Mono",
+  "monospaceFontFamily": "Dank Mono,Source Code Pro",
   "baseFontSize": 20,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "vibe"
-  ]
+  ],
+  "showViewHeader": true
 }

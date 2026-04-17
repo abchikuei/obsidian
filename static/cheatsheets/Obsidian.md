@@ -1,25 +1,27 @@
-
----
+# This is a heading 1
+## This is a heading 2
+### This is a heading 3
+#### This is a heading 4
+##### This is a heading 5
+###### This is a heading 6
 
 **Bold**
 
----
-
 *Italic*
 
----
+***Italic Bold***
 
 ~~The world is flat.~~
 
----
+==this text is highlighted==
 
-> Make it work, make it right, make it fast 
-
----
+> Quote
 
 `keyword`
 
----
+$$
+\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+$$
 
 ```html
 <!DOCTYPE html>  
@@ -35,41 +37,46 @@
 </html>
 ```
 
----
+<details>
+<summary>Toggle to Expand</summary>
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+</details>
+
 
 ![Arch|154](file:///Users/eldos/Downloads/Picture.jpeg)
 
----
 
 <audio controls src="file:///Users/eldos/Downloads/Telegram Desktop/Death Note - (L's Theme D) Music.mp3"></audio>
 
----
 
 #SOFTWARE_ENGINEERING #BITCOIN #SENDBARRON
 
----
 
 1. First item  
 2. Second item  
 3. Third item
 
----
 
 - First item  
 - Second item  
 - Third item
 
----
 
 - [ ] Write the press release  
 - [ ] Update the website  
 - [x] Contact the media
 
----
+
+- Supabase — DB + auth + storage
+    
+- Firebase — realtime DB + hosting
+    
+- Appwrite — self-hostable BaaS
+	
+- Pocketbase - Supabase analog
+
 
 [Badges Link](https://github.com/inttter/md-badges)
-
----
 
 | #   | Category         | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -79,7 +86,6 @@
 | 4   | **Tools**        | [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#) [![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#) [![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)](#) [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)](#) [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)](#) [![Jest\|49](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)](#) [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)    |
 | 5   | **Productivity** | [![Raycast](https://img.shields.io/badge/-Raycast-FF1B2D?style=flat&logo=raycast&logoColor=white)](#) [![Neovim\|69](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)](#) [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)](#) [![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)                                   |
 
----
 
 > [!NOTE]- Note
 > Highlights information that users should take into account, even when skimming.
@@ -119,21 +125,11 @@
 > [!FAILURE]- Failure
 > Negative potential consequences of an action.
 
----
 
 ```mermaid
-graph TD;
-    A[Start] --> B{Is it working?};
-    B -- Yes --> C[Great!];
-    B -- No --> D[Check Cheatsheet];
-
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
 ```
-
----
-
-$$
-\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
-$$
-
----
-

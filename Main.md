@@ -1,5 +1,5 @@
 ## ✏️ **`Author`**: Kurban Eldos
-## 👤 **`Position`**: TypeScript Web Developer
+## 👤 **`Position`**: Software Engineer
 ## **👨‍💻 `Tech Stack`**: 
 
 | #   | Category         | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -21,6 +21,27 @@
 | **3** | **🏆 Competitive Programming** | LeetCode & Codeforces solutions, algorithm breakdowns, data structures, time/space complexity analysis, contest explanations | **`#CP`** |
 | **4** | **📐 Mathematics**             | Engineer-focused math: linear algebra, discrete math, combinatorics, probability, graph theory, number theory                | **`#MF`** |
 | **5** | **📖 General Facts**           | Stories from the IT world: company histories, rise & fall, tech culture, famous engineers, industry trends                   | **`#GF`** |
+
+## 🖇️ **`Socials`**:
+
+| Platform      | Link                                                                 |
+| ------------- | -------------------------------------------------------------------- |
+| 💬 Telegram   | [@abchikuei](https://t.me/abchikuei)                                 |
+| 💻 GitHub     | [abchikuei](https://github.com/abchikuei)                            |
+| 🔗 LinkedIn   | [Eldos Kurban](https://www.linkedin.com/in/eldos-kurban-3807613b7/)  |
+| 🧑‍💼 HH.kz   | [Profile](https://almaty.hh.kz/profile/me?hhtmFrom=ProfileActivator) |
+| 🧠 LeetCode   | [abchikuei](https://leetcode.com/u/abchikuei/)                       |
+| 🏆 Codeforces | [abchikuei](https://codeforces.com/profile/abchikuei)                |
+
+## 📚 **`Resources`**:
+
+| #   | Resource                                                           | Format |
+| --- | ------------------------------------------------------------------ | ------ |
+| 1   | [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) | 📕 PDF |
+| 2   | [CP Algorithms](https://cp-algorithms.com/index.html)              | 🌐 Web |
+| 3   | [Web Development Guide](https://my-js.org/docs/guide/intro-guide)  | 🌐 Web |
+| 4   | [Learn JavaScript](https://learn.javascript.ru/)                   | 🌐 Web |
+| 5   | [Web Patterns](https://www.patterns.dev/)                          | 🌐 Web |
 
 ## ⚙️ **`Settings`**:
 
