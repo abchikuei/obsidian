@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "static/configs/VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "VSCode"
             }
           }
         ]
@@ -197,10 +197,11 @@
   },
   "active": "6b157eb24b2f942f",
   "lastOpenFiles": [
+    "static/configs/Raycast.md",
+    "Main.md",
     "static",
     "notes/Obsidian Plugin Releasing.md",
     "static/configs/VSCode.md",
-    "static/configs/Raycast.md",
     "static/configs/Prettier.md",
     "static/configs/Ghostty.md",
     "configs/Neovim.md",
@@ -212,7 +213,6 @@
     "static/configs",
     "static/tools/Linux Tools.md",
     "static/tools/CLI Tools.md",
-    "Main.md",
     "tools/Web Tools.md",
     "static/shortcuts/Chrome.md",
     "static/shortcuts/YouTube.md",
@@ -231,7 +231,6 @@
     "notes/Linux",
     "notes/Raycast",
     "notes/Codeforces",
-    "notes/Leetcode",
     "notes/Google Products.md",
     "whats-up-wassup-gif-by-zypto.gif",
     "spongebob-squarepants-nickelodeon-gif.gif",
