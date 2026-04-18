@@ -32,6 +32,7 @@
 | 🧑‍💼 HH.kz   | [Profile](https://almaty.hh.kz/profile/me?hhtmFrom=ProfileActivator) |
 | 🧠 LeetCode   | [abchikuei](https://leetcode.com/u/abchikuei/)                       |
 | 🏆 Codeforces | [abchikuei](https://codeforces.com/profile/abchikuei)                |
+| 🎭 Reddit     | [Unhappy_Clue2013](https://www.reddit.com/user/Unhappy_Clue2013/)    |
 
 ## 📚 **`Resources`**:
 
