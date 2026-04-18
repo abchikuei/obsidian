@@ -59,3 +59,12 @@
 
 ---
 
+## 📒 **`Notes`**:
+
+| Topic                          | Notes                                                   |
+| ------------------------------ | ------------------------------------------------------- |
+| **🛠️ Software Engineering**   | 1. ***[[Obsidian plugin development and deployment]]*** |
+| **🖥️ Computer Science**       |                                                         |
+| **🏆 Competitive Programming** |                                                         |
+| **📐 Mathematics**             |                                                         |
+| **📖 General Facts**           |                                                         |

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e2521d9a63348db",
+        "id": "046e6de2fa5f24ba",
         "type": "tabs",
         "children": [
           {
-            "id": "60e7185c0b1c99eb",
+            "id": "5657c0512152a84a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Obsidian Plugin Releasing.md",
+                "file": "notes/Obsidian plugin development and deployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Plugin Releasing"
+              "title": "Obsidian plugin development and deployment"
             }
           }
         ]
@@ -194,14 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60e7185c0b1c99eb",
+  "active": "5657c0512152a84a",
   "lastOpenFiles": [
-    "static/configs/Raycast.md",
     "Main.md",
+    "notes/Obsidian plugin development and deployment.md",
+    "Users/eldos/Documents/abchikuei/notes/Obsidian.md",
+    "Users/eldos/Documents/abchikuei/notes",
+    "Users/eldos/Documents/abchikuei",
+    "Users/eldos/Documents",
+    "Users/eldos",
+    "Users",
+    "static/cheatsheets/Obsidian.md",
+    "static/shortcuts/Mac.md",
+    "static/configs/Raycast.md",
     "static/shortcuts/Terminal.md",
     "static/configs/VSCode.md",
     "static",
-    "notes/Obsidian Plugin Releasing.md",
     "static/configs/Prettier.md",
     "static/configs/Ghostty.md",
     "configs/Neovim.md",
@@ -218,19 +226,12 @@
     "static/shortcuts/VSCode.md",
     "static/shortcuts/Telegram.md",
     "static/shortcuts/Obsidian.md",
-    "static/shortcuts/Mac.md",
     "notes/Web/Nvidia.md",
     "notes/Google/Google Products.md",
     "notes/Web",
     "notes/Microsoft",
     "notes/Engineering",
     "notes/Untitled.md",
-    "notes/Math",
-    "notes/Docker",
-    "notes/Linux",
-    "notes/Raycast",
-    "notes/Codeforces",
-    "notes/Google Products.md",
     "whats-up-wassup-gif-by-zypto.gif",
     "spongebob-squarepants-nickelodeon-gif.gif",
     "Pasted image 20260417172549.png",
