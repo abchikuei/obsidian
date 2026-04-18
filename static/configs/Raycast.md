@@ -5,45 +5,26 @@
 
 ```json
 [
+	{ "name": "Downloads", "link": "file:\/\/\/Users\/eldos\/Downloads" },
+	{ "name": "Documents", "link": "file:\/\/\/Users\/eldos\/Documents" },
+	{ "name": "Applications", "link": "file:\/\/\/Applications" },
 	{
-		"link": "https:\/\/google.com\/search?q={Query}",
-		"name": "Search Google"
+		"name": "Look YouTube",
+		"link": "https:\/\/www.youtube.com\/results?search_query={Query}"
 	},
 	{
-		"link": "https:\/\/www.youtube.com\/results?search_query={Query}",
-		"name": "Search YouTube"
+		"name": "Look Reddit",
+		"link": "https:\/\/www.reddit.com\/search\/?q={Query}"
+	},
+	{ "name": "Look NPM", "link": "https:\/\/www.npmjs.com\/search?q={Query}" },
+	{
+		"name": "Look Github",
+		"link": "https:\/\/github.com\/search?q={Query}&type=repositories"
 	},
 	{
-		"link": "https:\/\/www.reddit.com\/search\/?q={Query}",
-		"name": "Search Reddit"
-	},
-	{
-		"link": "https:\/\/stackoverflow.com\/search?q={Query}",
-		"name": "Search Stack Overflow"
-	},
-	{
-		"link": "https:\/\/www.npmjs.com\/package\/{Query}",
-		"name": "Search NPM Package",
-	},
-	{
-		"link": "https:\/\/hub.docker.com\/search?q={Query}",
-		"name": "Search Docker Hub"
-	},
-	{
-		"link": "https:\/\/github.com\/search?q={Query}&type=repositories",
-		"name": "Search Github"
-	},
-	{
-		"link": "https:\/\/developer.mozilla.org\/en-US\/search?q={Query}",
-		"name": "Search MDN"
-	},
-	{
-		"link": "https://github.com/devought/my-settings/blob/main/.prettierrc",
-		"name": "My Prettier Config"
-	},
-	{ "link": "file:///Users/eldos/Downloads", "name": "Downloads" },
-	{ "link": "file:///Users/eldos/Documents", "name": "Documents" },
-	{ "link": "file:///Applications", "name": "Applications" }
+		"name": "Look MDN",
+		"link": "https:\/\/developer.mozilla.org\/en-US\/search?q={Query}"
+	}
 ]
 ```
 

@@ -11,10 +11,14 @@
             "id": "60e7185c0b1c99eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Obsidian Plugin Releasing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Obsidian Plugin Releasing"
             }
           }
         ]
@@ -192,10 +196,10 @@
   },
   "active": "60e7185c0b1c99eb",
   "lastOpenFiles": [
-    "static/shortcuts/Terminal.md",
-    "Main.md",
-    "static/configs/VSCode.md",
     "static/configs/Raycast.md",
+    "Main.md",
+    "static/shortcuts/Terminal.md",
+    "static/configs/VSCode.md",
     "static",
     "notes/Obsidian Plugin Releasing.md",
     "static/configs/Prettier.md",
