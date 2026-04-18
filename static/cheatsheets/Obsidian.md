@@ -43,12 +43,6 @@ $$
 </details>
 
 
-![Arch|154](file:///Users/eldos/Downloads/Picture.jpeg)
-
-
-<audio controls src="file:///Users/eldos/Downloads/Telegram Desktop/Death Note - (L's Theme D) Music.mp3"></audio>
-
-
 #SOFTWARE_ENGINEERING #BITCOIN #SENDBARRON
 
 

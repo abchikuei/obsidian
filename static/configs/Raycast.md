@@ -72,10 +72,11 @@
 
 ### ⚡ **Raycast Extensions & Commands**
 
-| #   | Extension / Command | What it is / Why you use it          | Common Use Case                       | Example                              |
-| --- | ------------------- | ------------------------------------ | ------------------------------------- | ------------------------------------ |
-| 1   | `Brew`              | Raycast interface for Homebrew       | Install/manage CLI tools quickly      | Search → install `node`              |
-| 2   | `Color Picker`      | System color grabbing tool           | Pick colors from screen for UI/design | Copy hex code `#FF5733`              |
-| 3   | `Kill Process`      | GUI process manager                  | Force stop frozen apps or processes   | Kill `Chrome` or PID                 |
-| 4   | `Ruler`             | On-screen measurement tool           | Measure UI spacing/pixels             | Measure button padding in Figma/web  |
-| 5   | `Raynotes`          | Custom AI note enhancer for Obsidian | Clean, polish, and structure notes    | Convert raw notes → markdown summary |
+| #   | Extension / Command | What it is / Why you use it          | Common Use Case                            | Example                              |
+| --- | ------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------ |
+| 1   | `Brew`              | Raycast interface for Homebrew       | Install/manage CLI tools quickly           | Search → install `node`              |
+| 2   | `Color Picker`      | System color grabbing tool           | Pick colors from screen for UI/design      | Copy hex code `#FF5733`              |
+| 3   | `Kill Process`      | GUI process manager                  | Force stop frozen apps or processes        | Kill `Chrome` or PID                 |
+| 4   | `Ruler`             | On-screen measurement tool           | Measure UI spacing/pixels                  | Measure button padding in Figma/web  |
+| 5   | `Raynotes`          | Custom AI note enhancer for Obsidian | Clean, polish, and structure notes         | Convert raw notes → markdown summary |
+| 6   | `Translate`         | Google Translate                     | Translate into several languages at a time | Translate                            |
