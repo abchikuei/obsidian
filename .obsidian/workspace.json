@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/tools/NPM Tools.md",
+                "file": "static/configs/VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPM Tools"
+              "title": "VSCode"
             }
           }
         ]
@@ -194,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d3b3e5fba49e063",
+  "active": "3f1bca9f5bbe6cbf",
   "lastOpenFiles": [
+    "Main.md",
+    "static/configs/Raycast.md",
+    "static/tools/NPM Tools.md",
     "static/tools/Linux Tools.md",
     "static/tools/CLI Tools.md",
     "static/shortcuts/Terminal.md",
-    "static/configs/Raycast.md",
-    "Main.md",
     "notes/Obsidian plugin development and deployment.md",
     "static/cheatsheets/Obsidian.md",
     "static/configs/VSCode.md",
@@ -218,7 +219,6 @@
     "configs/Mac.md",
     "configs/Obsidian.md",
     "configs/Chrome.md",
-    "static/tools/NPM Tools.md",
     "static/configs",
     "tools/Web Tools.md",
     "static/shortcuts/Chrome.md",
