@@ -3,27 +3,30 @@
 ---
 
 ```json
-font-family = "Dank Mono"  
-font-size = 18
-font-thicken = true
+font-family = "0xProto Nerd Font Mono"
+font-style = ""
 
-font-feature = -calt
-font-feature = -liga
-font-feature = -dlig
+font-size = 16
+font-thicken = true
 
 cursor-style = bar
 cursor-style-blink = true
 cursor-color = #F8F8F2
 
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
+
 theme = tokyonight_moon
+
 
 window-padding-x = 16
 window-padding-y = 12
 window-decoration = true
 macos-titlebar-style = tabs
-adjust-cell-height = 10
 background-opacity = 0.9
 background-blur-radius = 20
+adjust-cell-height = 10
 
 shell-integration = zsh
 shell-integration-features = cursor,sudo,title
@@ -41,5 +44,4 @@ keybind = cmd+enter=toggle_fullscreen
 
 confirm-close-surface = false
 quit-after-last-window-closed = true
-
 ```

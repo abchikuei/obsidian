@@ -365,3 +365,4 @@
 | 13  | `Template String Converter` | Convert strings to template literals | Clean string interpolation      | `"Hello ${name}"`              |
 | 14  | `Terraform`                 | Terraform syntax + tooling           | Infrastructure as code support  | Edit `.tf` files               |
 | 15  | `GraphQL`                   | GraphQL language support             | Query + schema development      | Write GraphQL queries          |
+ 
