@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "static/configs/Raycast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Raycast"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f1bca9f5bbe6cbf",
+  "active": "2d3b3e5fba49e063",
   "lastOpenFiles": [
-    "Untitled.md",
     "Main.md",
+    "Untitled.md",
     "static/tools/NPM Tools.md",
     "static/tools/CLI Tools.md",
     "static/shortcuts/Ghostty.md",
