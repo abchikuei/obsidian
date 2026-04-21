@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/configs/VSCode.md",
+                "file": "static/configs/Raycast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VSCode"
+              "title": "Raycast"
             }
           }
         ]
@@ -194,23 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d3b3e5fba49e063",
+  "active": "cf1b794932d54da1",
   "lastOpenFiles": [
-    "notes/Obsidian Plugin Dev.md",
-    "static/configs/Ghostty.md",
-    "static/shortcuts/Ghostty.md",
-    "static/configs/VSCode.md",
-    "static/configs/Raycast.md",
-    "static/configs/Prettier.md",
-    "static/cheatsheets/Obsidian.md",
+    "Main.md",
     "static/tools/Linux Tools.md",
-    "static/tools/NPM Tools.md",
     "static/tools/CLI Tools.md",
+    "static/shortcuts/Ghostty.md",
+    "static/shortcuts/Chrome.md",
+    "static/configs/Ghostty.md",
+    "static/configs/Prettier.md",
+    "static/configs/Raycast.md",
+    "static/configs/VSCode.md",
+    "notes/Obsidian Plugin Dev.md",
+    "static/cheatsheets/Obsidian.md",
+    "static/tools/NPM Tools.md",
     "drafts/Temprory.md",
     "drafts/Conspect.md",
-    "Main.md",
     "Untitled.md",
-    "static/shortcuts/Chrome.md",
     "drafts/Trash.md",
     "static/cheatsheets/ES6.md",
     "drafts/Mess.md",

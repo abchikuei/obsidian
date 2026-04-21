@@ -269,6 +269,7 @@
   "workbench.enableExperiments": false,
   "workbench.tree.indent": 20,
   "workbench.tree.renderIndentGuides": "none",
+  "workbench.colorTheme": "GitHub Dark",
 
   // ---- Terminal ----
   "terminal.integrated.cursorStyle": "line",
@@ -311,9 +312,6 @@
   "extensions.autoUpdate": true,
   "extensions.ignoreRecommendations": true,
 
-  // ---- Markdown Previewer ----
-  "markdown.preview.fontFamily": "Dank Mono",
-
   // ---- Misc ----
   "json.schemaDownload.enable": true,
   "update.mode": "default",
@@ -339,21 +337,22 @@
 
 ### 🧩 **VSCode Extensions**
 
-| #   | Extension                   | What it is / Why you use it          | Common Use Case                 | Example                        |
-| --- | --------------------------- | ------------------------------------ | ------------------------------- | ------------------------------ |
-| 1   | `Docker`                    | VSCode integration for Docker        | Manage containers inside editor | View running containers        |
-| 2   | `Prisma`                    | Prisma schema + DB tooling support   | Work with ORM schemas easily    | Edit `schema.prisma`           |
-| 3   | `Code Runner`               | Run code snippets instantly          | Quick test JS/TS/Python code    | Run selected code block        |
-| 4   | `Container Tools`           | Manage containers in VSCode          | Inspect Docker environments     | View logs of containers        |
-| 5   | `Dev Containers`            | Develop inside containers            | Consistent dev environments     | Open project in container      |
-| 6   | `Dotenv`                    | `.env` file support                  | Highlight and manage env vars   | Edit `.env` safely             |
-| 7   | `ESLint`                    | JavaScript/TypeScript linter         | Enforce code quality rules      | Show lint errors live          |
-| 8   | `Flow Icons`                | File/folder icon theme               | Improve project readability     | Visual file structure          |
-| 9   | `HTML CSS Support`          | Autocomplete for HTML/CSS            | Faster frontend coding          | Suggest CSS classes            |
-| 10  | `Path Intellisense`         | Autocomplete file paths              | Avoid broken imports            | `import './components/Button'` |
-| 11  | `Prettier`                  | Code formatter                       | Auto-format code consistently   | Format on save                 |
-| 12  | `Tailwind CSS`              | Tailwind autocomplete + hints        | Faster UI development           | Suggest utility classes        |
-| 13  | `Template String Converter` | Convert strings to template literals | Clean string interpolation      | `"Hello ${name}"`              |
-| 14  | `Terraform`                 | Terraform syntax + tooling           | Infrastructure as code support  | Edit `.tf` files               |
-| 15  | `GraphQL`                   | GraphQL language support             | Query + schema development      | Write GraphQL queries          |
+| #   | Extension                   |
+| --- | --------------------------- |
+| 1   | `Docker`                    |
+| 2   | `Prisma`                    |
+| 3   | `Code Runner`               |
+| 4   | `Container Tools`           |
+| 5   | `Dev Containers`            |
+| 6   | `Dotenv`                    |
+| 7   | `ESLint`                    |
+| 8   | `Flow Icons`                |
+| 9   | `HTML CSS Support`          |
+| 10  | `Path Intellisense`         |
+| 11  | `Prettier`                  |
+| 12  | `Tailwind CSS`              |
+| 13  | `Template String Converter` |
+| 14  | `Terraform`                 |
+| 15  | `GraphQL`                   |
+| 16  | `Github Theme`              |
  

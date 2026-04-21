@@ -6,25 +6,29 @@
 
 ```json
 [
-  { "name": "Look Downloads", "link": "file:///Users/eldos/Downloads" },
-  { "name": "Look Documents", "link": "file:///Users/eldos/Documents" },
-  { "name": "Look Applications", "link": "file:///Applications" },
+  { "name": "Downloads", "link": "file:///Users/eldos/Downloads" },
+  { "name": "Documents", "link": "file:///Users/eldos/Documents" },
+  { "name": "Applications", "link": "file:///Applications" },
   {
-    "name": "Look YouTube",
+    "name": "YouTube",
     "link": "https://www.youtube.com/results?search_query={Query}"
   },
   {
-    "name": "Look Reddit",
+    "name": "Reddit",
     "link": "https://www.reddit.com/search/?q={Query}"
   },
-  { "name": "Look NPM", "link": "https://www.npmjs.com/search?q={Query}" },
+  { "name": "NPM", "link": "https://www.npmjs.com/search?q={Query}" },
   {
-    "name": "Look Github",
+    "name": "Github",
     "link": "https://github.com/search?q={Query}&type=repositories"
   },
   {
-    "name": "Look MDN",
+    "name": "MDN",
     "link": "https://developer.mozilla.org/en-US/search?q={Query}"
+  },
+  {
+	"name": "Gmail",
+	"link":"https://mail.google.com/mail/u/0/#inbox"
   }
 ]
 ```
@@ -77,12 +81,12 @@
 
 ### ⚡ **Raycast Extensions & Commands**
 
-| #   | Extension / Command | What it is / Why you use it          | Common Use Case                            |
-| --- | ------------------- | ------------------------------------ | ------------------------------------------ |
-| 1   | `Brew`              | Raycast interface for Homebrew       | Install/manage CLI tools quickly           |
-| 2   | `Color Picker`      | System color grabbing tool           | Pick colors from screen for UI/design      |
-| 3   | `Kill Process`      | GUI process manager                  | Force stop frozen apps or processes        |
-| 4   | `Ruler`             | On-screen measurement tool           | Measure UI spacing/pixels                  |
-| 5   | `Raynotes`          | Custom AI note enhancer for Obsidian | Clean, polish, and structure notes         |
-| 6   | `Translate`         | Google Translate                     | Translate into several languages at a time |
-| 7   | `Svgl`              | Quick SVG Search                     | Convenient for UI                          |
+| #   | Extension / Command |
+| --- | ------------------- |
+| 1   | `Brew`              |
+| 2   | `Color Picker`      |
+| 3   | `Kill Process`      |
+| 4   | `Ruler`             |
+| 5   | `Raynotes`          |
+| 6   | `Translate`         |
+| 7   | `Svgl`              |

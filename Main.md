@@ -24,25 +24,24 @@
 
 ## 🖇️ **`Socials`**:
 
-| Platform                                                                 |
-| ------------------------------------------------------------------------ |
-| [💬 Telegram]((https://t.me/abchikuei))                                  |
-| [💻 GitHub](https://github.com/abchikuei)                                |
-| [🔗 LinkedIn](https://www.linkedin.com/in/eldos-kurban-3807613b7/)       |
-| [🧑‍💼 HH.kz](https://almaty.hh.kz/profile/me?hhtmFrom=ProfileActivator) |
-| [🧠 LeetCode](https://leetcode.com/u/abchikuei/)                         |
-| [🏆 Codeforces](https://codeforces.com/profile/abchikuei)                |
-| [🎭 Reddit](https://www.reddit.com/user/Unhappy_Clue2013/)               |
+| Platform                                                                     |
+| ---------------------------------------------------------------------------- |
+| [**💬 Telegram**](https://t.me/abchikuei)                                    |
+| [**💻 GitHub**](https://github.com/abchikuei)                                |
+| [**🔗 LinkedIn**](https://www.linkedin.com/in/eldos-kurban-3807613b7/)       |
+| [**🧑‍💼 HH.kz**](https://almaty.hh.kz/profile/me?hhtmFrom=ProfileActivator) |
+| [**🧠 LeetCode**](https://leetcode.com/u/abchikuei/)                         |
+| [**🏆 Codeforces**](https://codeforces.com/profile/abchikuei)                |
+| [**🎭 Reddit**](https://www.reddit.com/user/Unhappy_Clue2013/)               |
 
 ## 📚 **`Resources`**:
 
-| #   | Resource                                                           | Format |
-| --- | ------------------------------------------------------------------ | ------ |
-| 1   | [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) | 📕 PDF |
-| 2   | [CP Algorithms](https://cp-algorithms.com/index.html)              | 🌐 Web |
-| 3   | [Web Development Guide](https://my-js.org/docs/guide/intro-guide)  | 🌐 Web |
-| 4   | [Learn JavaScript](https://learn.javascript.ru/)                   | 🌐 Web |
-| 5   | [Web Patterns](https://www.patterns.dev/)                          | 🌐 Web |
+| #   | Resource                                                                                                                                                                                                                                                                   | Format |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1   | [**CP Handbook**](https://cses.fi/book/book.pdf)                                                                                                                                                                                                                           | 📕 PDF |
+| 2   | [**Basic Math**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drive.uqu.edu.sa/_/quc_physics/files/1300%2520Math%2520Formulas%2520by%2520Golden%2520Art.pdf&ved=2ahUKEwiOt9Gev_-TAxU9GxAIHdTYOXUQFnoECBoQAQ&usg=AOvVaw0kTcwZQmwqQVWBokKwf4N3) | 🌐 Web |
+| 3   | [**Web Development**](https://my-js.org/docs/guide/intro-guide)                                                                                                                                                                                                            | 🌐 Web |
+| 4   | [**Design Patterns**](https://www.patterns.dev/)                                                                                                                                                                                                                           | 🌐 Web |
 
 ## ⚙️ **`Settings`**:
 
