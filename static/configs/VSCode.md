@@ -125,11 +125,12 @@
 
 ---
 
-### 🏆 **CP Snippets**
+### 🏆 **Template Snippets**
 
 ```json
 {
     "Codeforces": {
+        "scope": "typescript",
         "prefix": "lf",
         "body": [
             "import * as fs from \"fs\";",
@@ -155,7 +156,7 @@
             "const write = (...s: any[]) => (out += s.join(' ') + \"\\n\");",
             "const flush = () => process.stdout.write(out);",
             "",
-            "function solve() {",
+            "function solve(): void {",
             "    $0",
             "}",
             "",
@@ -168,19 +169,21 @@
         ]
     },
     "Neetcode": {
+        "scope": "typescript",
         "prefix": "nc",
         "body": [
             "export class Solution {",
-            "    $1 ($2) {",
+            "    $1 ($2): $3 {",
             "        $0",
             "    }",
             "}"
         ]
     },
     "Leetcode": {
+        "scope": "typescript",
         "prefix": "lc",
         "body": [
-            "export function $1 ($2) {",
+            "export function $1 ($2): $3 {",
             "   $0",
             "}"
         ]

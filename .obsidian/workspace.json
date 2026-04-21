@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Obsidian Plugin Dev.md",
+                "file": "static/configs/VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Plugin Dev"
+              "title": "VSCode"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f1bca9f5bbe6cbf",
+  "active": "2d3b3e5fba49e063",
   "lastOpenFiles": [
+    "notes/Obsidian Plugin Dev.md",
     "static/configs/Ghostty.md",
     "static/shortcuts/Ghostty.md",
-    "notes/Obsidian Plugin Dev.md",
     "static/configs/VSCode.md",
     "static/configs/Raycast.md",
     "static/configs/Prettier.md",
