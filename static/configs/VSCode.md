@@ -188,36 +188,24 @@
 }
 ```
 
----
-
-### 🔧 **Keybindings for CP**
+### ⚙️ **General Keybindings**
 
 ```json
 [
   {
     "key": "cmd+shift+a",
     "command": "workbench.action.tasks.runTask",
-    "args": "Build & Copy"
+    "args": "submit"
   },
   {
-    "key": "cmd+shift+l",
+    "key": "cmd+shift+z",
     "command": "workbench.action.tasks.runTask",
-    "args": "Test"
+    "args": "run"
   },
   {
-    "key": "shift+cmd+z",
-    "command": "workbench.action.tasks.runTask",
-    "args": "Revert"
-  }
-]
-```
-
----
-
-### ⚙️ **General Keybindings**
-
-```json
-[
+    "key": "cmd+shift+j",
+    "command": "workbench.files.action.collapseExplorerFolders"
+  },
   { "key": "cmd+1", "command": "workbench.action.openEditorAtIndex1" },
   { "key": "cmd+2", "command": "workbench.action.openEditorAtIndex2" },
   { "key": "cmd+3", "command": "workbench.action.openEditorAtIndex3" },

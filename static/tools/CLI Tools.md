@@ -1,22 +1,16 @@
 ### ⚡ CLI Tools 
 
-| #   | Tool         | What it is / Why you use it                          | Common Use Case                                                                                  | Command Example            |
-| --- | ------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------- |
-| 1   | `yazi`       | Modern terminal file manager (fast, keyboard-driven) | Navigate and manage files visually in terminal                                                   | `yazi`                     |
-| 2   | `neovim`     | Advanced extensible code editor                      | Write and edit code efficiently                                                                  | `nvim index.ts`            |
-| 3   | `bat`        | Better `cat` with syntax highlighting                | Read code/files with colors                                                                      | `bat main.ts`              |
-| 4   | `fzf`        | Fuzzy finder for files/commands                      | Quickly search files or history                                                                  | `fzf`                      |
-| 5   | `zoxide`     | Smarter `cd` (tracks your habits)                    | Jump to frequently used dirs                                                                     | `z project`                |
-| 6   | `ripgrep`    | Super fast text search tool                          | Search codebases                                                                                 | `rg "function"`            |
-| 7   | `clipboard`  | Access system clipboard from CLI                     | Copy/paste between apps                                                                          | `echo "text"               |
-| 8   | `eza`        | Modern `ls` replacement                              | List files with icons and git info                                                               | `eza -la`                  |
-| 9   | `lazygit`    | Terminal UI for Git                                  | Manage commits, branches visually                                                                | `lazygit`                  |
-| 10  | `lazydocker` | Terminal UI for Docker                               | Inspect containers/logs easily                                                                   | `lazydocker`               |
-| 11  | `jq`         | JSON processor                                       | Parse API responses                                                                              | `curl api                  |
-| 12  | `httpie`     | Human-friendly HTTP client                           | Test APIs with clean output                                                                      | `http GET api.example.com` |
-| 13  | `mole`       | Deep mac cleaner                                     | Removes caches, logs, browser leftovers, and orphaned app data to **reclaim gigabytes of space** | `mole clean`               |
-| 14  | `neofetch`   | Shows system info                                    | Display system details                                                                           | `neofetch`                 |
-| 15  | `fd`         | Simpler, faster `find`                               | Locate files quickly                                                                             | `fd config`                |
+| #   | Tool       | What it is / Why you use it                          | Common Use Case                                                                                  | Command Example |
+| --- | ---------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
+| 1   | `yazi`     | Modern terminal file manager (fast, keyboard-driven) | Navigate and manage files visually in terminal                                                   | `yazi`          |
+| 2   | `bat`      | Better `cat` with syntax highlighting                | Read code/files with colors                                                                      | `bat main.ts`   |
+| 3   | `fzf`      | Fuzzy finder for files/commands                      | Quickly search files or history                                                                  | `fzf`           |
+| 4   | `zoxide`   | Smarter `cd` (tracks your habits)                    | Jump to frequently used dirs                                                                     | `z project`     |
+| 5   | `ripgrep`  | Super fast text search tool                          | Search codebases                                                                                 | `rg "function"` |
+| 7   | `jq`       | JSON processor                                       | Parse API responses                                                                              | `curl api       |
+| 8   | `mole`     | Deep mac cleaner                                     | Removes caches, logs, browser leftovers, and orphaned app data to **reclaim gigabytes of space** | `mole clean`    |
+| 9   | `neofetch` | Shows system info                                    | Display system details                                                                           | `neofetch`      |
+| 10  | `fd`       | Simpler, faster `find`                               | Locate files quickly                                                                             | `fd config`     |
 
 
 
@@ -39,3 +33,4 @@
 | 14  | `aws`       | AWS CLI                      | Manage cloud services          | `aws s3 ls`                |
 | 15  | `gh`        | Github CLI                   | Control repo from terminal     | `gh issue list`            |
 
+ 

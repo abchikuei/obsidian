@@ -24,15 +24,15 @@
 
 ## 🖇️ **`Socials`**:
 
-| Platform      | Link                                                                 |
-| ------------- | -------------------------------------------------------------------- |
-| 💬 Telegram   | [@abchikuei](https://t.me/abchikuei)                                 |
-| 💻 GitHub     | [abchikuei](https://github.com/abchikuei)                            |
-| 🔗 LinkedIn   | [Eldos Kurban](https://www.linkedin.com/in/eldos-kurban-3807613b7/)  |
-| 🧑‍💼 HH.kz   | [Profile](https://almaty.hh.kz/profile/me?hhtmFrom=ProfileActivator) |
-| 🧠 LeetCode   | [abchikuei](https://leetcode.com/u/abchikuei/)                       |
-| 🏆 Codeforces | [abchikuei](https://codeforces.com/profile/abchikuei)                |
-| 🎭 Reddit     | [Unhappy_Clue2013](https://www.reddit.com/user/Unhappy_Clue2013/)    |
+| Platform                                                                 |
+| ------------------------------------------------------------------------ |
+| [💬 Telegram]((https://t.me/abchikuei))                                  |
+| [💻 GitHub](https://github.com/abchikuei)                                |
+| [🔗 LinkedIn](https://www.linkedin.com/in/eldos-kurban-3807613b7/)       |
+| [🧑‍💼 HH.kz](https://almaty.hh.kz/profile/me?hhtmFrom=ProfileActivator) |
+| [🧠 LeetCode](https://leetcode.com/u/abchikuei/)                         |
+| [🏆 Codeforces](https://codeforces.com/profile/abchikuei)                |
+| [🎭 Reddit](https://www.reddit.com/user/Unhappy_Clue2013/)               |
 
 ## 📚 **`Resources`**:
 
@@ -50,13 +50,6 @@
 | -------- | --------------------------------- |
 | 🎨 Theme | `Minimal`                         |
 | 🔤 Font  | `Dank Mono` — text, UI, monospace |
-
-## 🔗 **`Extensions`**:
-
-| Extension    | Purpose                                |
-| ------------ | -------------------------------------- |
-| 🐙 `Git`     | Backup notes to GitHub automatically   |
-| 🃏 `Obicard` | Display notes as React card components |
 
 ---
 

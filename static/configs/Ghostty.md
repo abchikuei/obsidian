@@ -3,10 +3,10 @@
 ---
 
 ```json
-font-family = "0xProto Nerd Font Mono"
-font-style = ""
+font-family = "DankMono Nerd Font Mono Bold"
+font-style = "DankMono Nerd Font Mono Bold"
 
-font-size = 16
+font-size = 20
 font-thicken = true
 
 cursor-style = bar
@@ -18,7 +18,6 @@ font-feature = -liga
 font-feature = -dlig
 
 theme = tokyonight_moon
-
 
 window-padding-x = 16
 window-padding-y = 12
