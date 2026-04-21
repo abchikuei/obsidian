@@ -3,11 +3,11 @@
 ---
 
 ```json
-font-family = "DankMono Nerd Font Mono Bold"
+font-family = "DankMono Nerd Font Mono"
 font-style = "DankMono Nerd Font Mono Bold"
 
 font-size = 20
-font-thicken = true
+font-thicken = **true**
 
 cursor-style = bar
 cursor-style-blink = true
@@ -37,10 +37,32 @@ focus-follows-mouse = false
 
 keybind = cmd+t=new_tab
 keybind = cmd+w=close_surface
-keybind = cmd+d=new_split:right
-keybind = cmd+shift+d=new_split:down
-keybind = cmd+enter=toggle_fullscreen
+keybind = cmd+shift+f=text:yazi\n
 
 confirm-close-surface = false
 quit-after-last-window-closed = true
 ```
+
+
+## 📁 Yazi Configuration
+
+---
+
+1. Create `~/.config/yazi/yazi.toml`
+2. Put it 
+
+```toml
+[mgr]
+show_hidden = true
+
+[opener]
+edit = [
+    { run = 'code --wait "$@"', block = true, desc = "VS Code" }
+]
+
+[open]
+rules = [
+    { name = "*", use = "edit" }
+]
+```
+

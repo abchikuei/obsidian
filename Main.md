@@ -57,7 +57,7 @@
 
 | Topic                          | Notes                                                   |
 | ------------------------------ | ------------------------------------------------------- |
-| **🛠️ Software Engineering**   | 1. ***[[Obsidian plugin development and deployment]]*** |
+| **🛠️ Software Engineering**   | 1. ***[[Obsidian Plugin Dev]]*** |
 | **🖥️ Computer Science**       |                                                         |
 | **🏆 Competitive Programming** |                                                         |
 | **📐 Mathematics**             |                                                         |

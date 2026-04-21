@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/configs/Raycast.md",
+                "file": "notes/Obsidian Plugin Dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raycast"
+              "title": "Obsidian Plugin Dev"
             }
           }
         ]
@@ -194,28 +194,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d3b3e5fba49e063",
+  "active": "3f1bca9f5bbe6cbf",
   "lastOpenFiles": [
-    "Main.md",
-    "Untitled.md",
-    "static/tools/NPM Tools.md",
-    "static/tools/CLI Tools.md",
+    "static/configs/Ghostty.md",
     "static/shortcuts/Ghostty.md",
-    "static/shortcuts/Chrome.md",
+    "notes/Obsidian Plugin Dev.md",
     "static/configs/VSCode.md",
     "static/configs/Raycast.md",
     "static/configs/Prettier.md",
-    "static/configs/Ghostty.md",
+    "static/cheatsheets/Obsidian.md",
+    "static/tools/Linux Tools.md",
+    "static/tools/NPM Tools.md",
+    "static/tools/CLI Tools.md",
     "drafts/Temprory.md",
     "drafts/Conspect.md",
+    "Main.md",
+    "Untitled.md",
+    "static/shortcuts/Chrome.md",
     "drafts/Trash.md",
     "static/cheatsheets/ES6.md",
     "drafts/Mess.md",
-    "static/cheatsheets/Obsidian.md",
-    "static/tools/Linux Tools.md",
     "static/configs/Neovim.md",
     "static/configs/CLI.md",
-    "notes/Obsidian plugin development and deployment.md",
     "Users/eldos/Documents/abchikuei/notes/Obsidian.md",
     "Users/eldos/Documents/abchikuei/notes",
     "Users/eldos/Documents/abchikuei",
